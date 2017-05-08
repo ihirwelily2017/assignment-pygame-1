@@ -20,7 +20,7 @@ pygame.mixer.init()
 
 # 3 - Load image
 player = pygame.image.load("resources/images/dude2.png")
-grass = pygame.image.load("resources/images/grass.png")
+grass = pygame.image.load("resources/images/lily.jpg")
 castle = pygame.image.load("resources/images/castle.png")
 arrow = pygame.image.load("resources/images/bullet.png")
 badguyimg1 = pygame.image.load("resources/images/badguy.png")
